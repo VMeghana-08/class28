@@ -1,2 +1,3 @@
-# class28
-slingshot
+# p5.play-boilerplate
+Boiler plate for p5.play
+changes applied
